@@ -1,4 +1,6 @@
-# P4_Consommation_Batiments
+# P4_Consommation_Batiments : Anticipez les besoins en consommation de bâtiments
+
+## Dans le cadre de la formation Data Scientist : Parcours en partenariat avec CentraleSupélec
 
 #### Enoncé:
 
